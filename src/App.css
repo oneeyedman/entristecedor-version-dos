@@ -1,0 +1,13 @@
+.face {
+  position: absolute;
+  left: 50%;
+  top:50%;
+  transform: translate(-50%,-50%) scale(1.4);
+  font-size: 45px;
+  text-align: center;
+  width: 100px;
+  line-height: 100px;
+  background: #ffcc00;
+  font-weight: bold;
+  border-radius: 50%;
+}
